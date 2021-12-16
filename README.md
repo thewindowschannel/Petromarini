@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Petromarini
-- 👀 Ενδιαφέρομαι. For malware 
-- μαθαίνοντας Μαθαίνω προσεκτικά τη ...For computer's pc
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀Im lock . 
+-For malware 
+- 
 
 <!---
 Petromarini/Petromarini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
